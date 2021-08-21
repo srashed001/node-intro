@@ -1,0 +1,14 @@
+{
+  "name": "node-intro-assignment",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sami Rashed",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
